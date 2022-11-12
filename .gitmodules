@@ -1,0 +1,3 @@
+[submodule "Assets/Packages/LayredGlow"]
+	path = Assets/Packages/LayredGlow
+	url = https://github.com/nobnak/LayredGlow.git
